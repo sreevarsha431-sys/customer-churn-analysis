@@ -79,6 +79,6 @@ This dashboard helps businesses:
 
 ---
 
-## 📌 **Conclusion**
+ **Conclusion**
 
 This project demonstrates how data analytics can be used to understand customer behavior and improve business performance through actionable insights.
